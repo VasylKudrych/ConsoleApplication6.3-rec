@@ -1,0 +1,4 @@
+﻿  UnitTest6.3 r.cpp
+C:\Users\vasul\source\repos\ConsoleApplication6.3 rec\ConsoleApplication6.3 rec.cpp(23): warning C4715: 'first_pair': not all control paths return a value
+C:\Users\vasul\source\repos\ConsoleApplication6.3 rec\ConsoleApplication6.3 rec.cpp(38): warning C4715: 'max': not all control paths return a value
+  UnitTest6.3 r.vcxproj -> C:\Users\vasul\source\repos\ConsoleApplication6.3 rec\Debug\UnitTest6.3 r.dll
